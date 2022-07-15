@@ -8,7 +8,7 @@
 
 ###
 
-##Como rodar:
+## Como rodar:
 ```
 git clone https://github.com/FreshPhp/Virus-Fake.git
 python3 main.py
